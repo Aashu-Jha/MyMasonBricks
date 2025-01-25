@@ -1,0 +1,10 @@
+# Register bricks which can be consumed via the Mason CLI.
+# Run "mason get" to install all registered bricks.
+# To learn more, visit https://docs.brickhub.dev.
+bricks:
+  folder_structure:
+    path: 
+      bricks/cleaner_architecture/folder_structure
+  feature:
+    path: 
+      bricks/cleaner_architecture/feature
